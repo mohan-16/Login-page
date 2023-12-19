@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  align-items: center;
+  background: url(" https://mobidev.biz/wp-content/uploads/2022/01/moon-6583573-1-1920x1080.jpg") !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-position: center !important;
+  justify-content: center !important;
+
+  height: 100vh;
+  width: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/* https://mobidev.biz/wp-content/uploads/2022/01/moon-6583573-1-1920x1080.jpg */
